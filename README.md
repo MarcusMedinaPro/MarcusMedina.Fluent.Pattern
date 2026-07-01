@@ -7,6 +7,8 @@
 
 **Fluent string pattern matching and analysis for .NET 10+**
 
+I detta fall ville jag förenkla användandet av mönsterigenkänning i C#. Strängmönster, regex, wildcards — samlat i ett Fluent API så man slipper tänka på implementationen varje gång.
+
 SQL-inspired patterns (`LIKE`, `IN`, `BETWEEN`), fuzzy matching (Levenshtein, Jaro-Winkler, Jaccard), string type detection (email, URL, IP, MAC, GUID, JSON, XML and more), and utility methods (palindromes, anagrams, pangrams, phonetic keys).
 
 ---
