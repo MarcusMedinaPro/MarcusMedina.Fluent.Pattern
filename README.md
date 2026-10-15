@@ -173,7 +173,7 @@ Tests: **191 passed** — covering pattern matching, fuzzy distance, validation,
 
 ## License
 
-MIT — see [LICENSE](LICENSE) for details.
+MIT — see [LICENSE](https://github.com/MarcusMedinaPro/MarcusMedina.Fluent.Pattern/blob/main/LICENSE) for details.
 
 ---
 
